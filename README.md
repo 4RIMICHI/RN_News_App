@@ -1,4 +1,5 @@
-# RN_News_App
+# RN_News_App  
+※expoで実行
 React_Nativeで記載  
 ■概要  
 News-apiを叩いて、ニュース一覧を表示し、詳細情報の確認が可能なアプリ  
